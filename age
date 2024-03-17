@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><u>MY POLITICAL JOURNEY</u></title>
+</head>
+<body>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <p><h1><u><i>MY PERSONAL BIO<i></u></h1></p>
+    <p><h2><i>NAME;REYNOLD M'MBOYI SANG'ALE</i></h2></p>
+    <p><h2><i>BIRTHDAY;1979</i></h2></p>
+    <h2><i>CAREER;POLITICAL ANALYST</i></h2>
+    <li><a href="#">Contact</a></li>
+    <p><i>You can contact me via 0725687694</p></i>
+     <a href="https://twitter.com/@reynoldmboyi"
+          target="_blank">Twitter</a> |
+          <a href="https://Facebook.com/in/REYNOLD SANG'ALE M'MBOYI"
+          target="_blank">LinkedIn</a>
+      </p>
+      <img src="img_1_1710671673698.jpg" width="200" height="200">
+      <img src="img_9_1710672221285.jpg" width="200" height="200">
+      <img src="img_8_1710672204619.jpg" width="200" height="200">
+      <img src="img_6_1710672147915.jpg" width="200" height="200">
+      <img src="img_3_1710671723315.jpg" width="200" height="200">
+      <img src="img_5_1710672121276.jpg" width="200" height="200">
+    
+
+</body>
+</html>
